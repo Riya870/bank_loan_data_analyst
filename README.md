@@ -12,6 +12,7 @@ This project focuses on developing a set of integrated dashboards that deliver d
 Dashboard Structure 
 Dashoard 1: Executive Summary
 Provides a high-level overview of key performance indicators (KPIs) for efficient assessment of lending activities.  
+![Dashboard](Images/Dashboard1.png)
 
 Dashboard 2: Trends & Overview
 Offers interactive visualizations to reveal trends in lending, borrower demographics, and loan purposes for identifying patterns and opportunities. 🔍  
